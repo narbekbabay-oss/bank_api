@@ -39,3 +39,5 @@ pip install -r requirements.txt
 
 # Запустить сервер
 uvicorn bank_api:app --reload
+
+После запуска открой в браузере: http://127.0.0.1:8000/docs
